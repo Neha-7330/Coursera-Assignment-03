@@ -1,0 +1,39 @@
+.nav_style{
+    background-color: dimgrey;
+}
+
+.nav_logo{
+    font-size: 35px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.items{
+    text-align: center;
+    font-size: 20px;
+}
+
+@media screen and (min-width: 768px){
+    .nav_element{
+        visibility: hidden;
+    } 
+}
+
+h1{
+    margin: 50px;
+    font-size: 60px;
+    font-weight: bold;
+}
+p{
+    padding: 30px;
+}
+
+.box{
+    background-color: lightgrey;
+    margin-top: 60px;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
